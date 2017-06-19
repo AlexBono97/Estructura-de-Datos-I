@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1494893888 source:c:\users\dell\desktop\arbolbinario\arbol.cpp
+	"arbol.h"
+
+1494893887 c:\users\dell\desktop\arbolbinario\arbol.h
+
+1494991601 source:c:\users\dell\desktop\arbolbinario\lista.cpp
+	"lista.h"
+	<iostream>
+
+1494993052 c:\users\dell\desktop\arbolbinario\lista.h
+	"nodo.h"
+
+1494991618 source:c:\users\dell\desktop\arbolbinario\main.cpp
+	<iostream>
+	"nodo.h"
+	"lista.h"
+
+1494976165 c:\users\dell\desktop\arbolbinario\nodo.h
+
+1494976210 source:c:\users\dell\desktop\arbolbinario\nodo.cpp
+	"nodo.h"
+

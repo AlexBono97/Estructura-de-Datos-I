@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1493875523 source:c:\users\justm\desktop\aeropuerto\pasajero.cpp
+	"pasajero.h"
+
+1493876289 c:\users\justm\desktop\aeropuerto\pasajero.h
+	<iostream>
+
+1493876795 source:c:\users\justm\desktop\aeropuerto\main.cpp
+	<iostream>
+	"checkin.h"
+
+1493876000 c:\users\justm\desktop\aeropuerto\checkin.h
+	"pasajero.h"
+
+1493876661 source:c:\users\justm\desktop\aeropuerto\checkin.cpp
+	"checkin.h"
+
+1493933055 source:c:\estructura de datos i\aeropuerto\checkin.cpp
+	"checkin.h"
+
+1493876000 c:\estructura de datos i\aeropuerto\checkin.h
+	"pasajero.h"
+
+1493876289 c:\estructura de datos i\aeropuerto\pasajero.h
+	<iostream>
+
+1493932918 source:c:\estructura de datos i\aeropuerto\main.cpp
+	<iostream>
+	"checkin.h"
+
+1493875523 source:c:\estructura de datos i\aeropuerto\pasajero.cpp
+	"pasajero.h"
+

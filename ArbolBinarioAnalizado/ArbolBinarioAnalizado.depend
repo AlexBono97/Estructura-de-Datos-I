@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1495033598 source:c:\users\dell\desktop\arbolbinarioanalizado\arbol.cpp
+	"arbol.h"
+
+1495033597 c:\users\dell\desktop\arbolbinarioanalizado\arbol.h
+
+1446667744 source:c:\users\dell\desktop\arbolbinarioanalizado\main.cpp
+	<iostream>
+
+1496080365 source:c:\estructura de datos i\arbolbinarioanalizado\main.cpp
+	<iostream>
+	"Nodo.h"
+	"arbol.h"
+
+1496033460 source:c:\estructura de datos i\arbolbinarioanalizado\nodo.cpp
+	"nodo.h"
+	<iostream>
+
+1496033437 c:\estructura de datos i\arbolbinarioanalizado\nodo.h
+
+1496081342 source:c:\estructura de datos i\arbolbinarioanalizado\arbol.cpp
+	"arbol.h"
+	<iostream>
+
+1496079945 c:\estructura de datos i\arbolbinarioanalizado\arbol.h
+	"Nodo.h"
+
