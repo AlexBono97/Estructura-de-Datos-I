@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1494994887 source:c:\users\dell\desktop\arbolbinariopractica\arbol.cpp
+	"arbol.h"
+	"nodo.h"
+
+1494994560 c:\users\dell\desktop\arbolbinariopractica\arbol.h
+	"nodo.h"
+
+1446667744 source:c:\users\dell\desktop\arbolbinariopractica\main.cpp
+	<iostream>
+
+1494993239 source:c:\users\dell\desktop\arbolbinariopractica\nodo.cpp
+	"nodo.h"
+
+1494993459 c:\users\dell\desktop\arbolbinariopractica\nodo.h
+

@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1494305654 source:c:\estructura de datos i\tablashash\lista.cpp
+	"lista.h"
+	"nodo.h"
+	<iostream>
+
+1494305682 c:\estructura de datos i\tablashash\lista.h
+	"nodo.h"
+	<iostream>
+
+1494306682 source:c:\estructura de datos i\tablashash\main.cpp
+	<iostream>
+	"nodo.h"
+	"tablahash.h"
+	"lista.h"
+
+1494305572 source:c:\estructura de datos i\tablashash\nodo.cpp
+	"nodo.h"
+	<iostream>
+
+1494305617 c:\estructura de datos i\tablashash\nodo.h
+	<iostream>
+
+1494305808 source:c:\estructura de datos i\tablashash\tablahash.cpp
+	"tablahash.h"
+	"lista.h"
+	"nodo.h"
+	<iostream>
+
+1494305543 c:\estructura de datos i\tablashash\tablahash.h
+	"nodo.h"
+	"lista.h"
+	<iostream>
+

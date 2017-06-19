@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1493357185 source:c:\estructura de datos i\tareapilas\main.cpp
+	<iostream>
+	"nodo.h"
+	"pila.h"
+
+1493353749 source:c:\estructura de datos i\tareapilas\nodo.cpp
+	"nodo.h"
+
+1493353828 c:\estructura de datos i\tareapilas\nodo.h
+	<iostream>
+
+1493355209 source:c:\estructura de datos i\tareapilas\pila.cpp
+	"pila.h"
+	<cmath>
+
+1493353939 c:\estructura de datos i\tareapilas\pila.h
+	"nodo.h"
+

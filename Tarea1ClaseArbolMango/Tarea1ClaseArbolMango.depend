@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1493070478 source:c:\estructura de datos i\tarea1clasearbolmango\arbolmango.cpp
+	"arbolmango.h"
+	<iostream>
+
+1493069603 c:\estructura de datos i\tarea1clasearbolmango\arbolmango.h
+	"frutamango.h"
+
+1493069575 c:\estructura de datos i\tarea1clasearbolmango\frutamango.h
+
+1493069716 source:c:\estructura de datos i\tarea1clasearbolmango\frutamango.cpp
+	"frutamango.h"
+
+1493070955 source:c:\estructura de datos i\tarea1clasearbolmango\main.cpp
+	<iostream>
+	"frutamango.h"
+	"arbolmango.h"
+
